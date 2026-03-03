@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.DS_Store
+*.tgz
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+
+# iOS
+ios/build/
+ios/.build/
+Pods/
+*.xcworkspace
+*.xcuserdata
