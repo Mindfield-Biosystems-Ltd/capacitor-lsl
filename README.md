@@ -1,5 +1,8 @@
 # @mindfield/capacitor-lsl
 
+[![npm version](https://img.shields.io/npm/v/@mindfield/capacitor-lsl.svg)](https://www.npmjs.com/package/@mindfield/capacitor-lsl)
+[![license](https://img.shields.io/npm/l/@mindfield/capacitor-lsl.svg)](LICENSE)
+
 Capacitor 7 plugin for [Lab Streaming Layer (LSL)](https://labstreaminglayer.org/) — stream biosignal data from mobile devices to LabRecorder or any LSL-compatible receiver.
 
 ## Installation
